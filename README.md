@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Marek Szulc</h1>
-<p align="center">For over 2 years, I’ve been focused on learning frontend development, building a strong foundation in HTML, CSS/SCSS, and gaining hands-on experience with JavaScript and React through personal projects. I’m now looking for a job to further develop my skills and contribute to real-world projects.</p>
 
-##
- - 🌱 I’m currently learning **React, JavaScript, SCSS, HTML, UI/UX**
-  
- - 🔍 Right now, I'm looking for my first professional job
+<h2 align="left">Frontend Developer | 2+ Years of Self-Learning in HTML, CSS, JavaScript, and React</h2>
 
- - 📫 How to reach me **marekk.szulc@gmail.com**
+
+  - 🌱 Learning frontend development for over 2 years, focusing on <strong>React, JavaScript, SCSS/CSS, HTML, UI/UX, </strong>
+  - 🔍 Actively looking for my <strong>first professional job</strong> as a Frontend Developer
+  - 💻 I have built several personal projects, gaining hands-on experience and improving my skills and continuous learning
+    <ul>
+      <li><a href="https://github.com/Mareq111/music-label-shop" target="_blank">Full E-commerce (2024)</a></li>
+      <li><a href="https://github.com/Mareq111/music-stream-website" target="_blank">Music Label Website (2024)</a></li>
+      <li><a href="https://github.com/Mareq111/Marlleto-Layout-website" target="_blank">Simply Single Page Layout (2023)</a></li>
+      <li><a href="https://www.figma.com/proto/wDrWTIWqpyDVV3uR9pV2us/FUDDER-Przepisy-aplikacja?page-id=0%3A1&node-id=845-28946&node-type=canvas&viewport=2393%2C1772%2C0.88&t=qJ55h1WQR8c98raG-8&scaling=scale-down&content-scaling=fixed&starting-point-node-id=512%3A10243&hide-ui=1" target="_blank">Recipe App Prototype – In Figma Old Project (2023)</a></li>
+    </ul>
+    
+  - 🎓 Passionate about creating modern and functional user interfaces
+  - 📫 How to reach me **marekk.szulc@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
