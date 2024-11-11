@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marek Szulc</h1>
-<h3 align="center">Polish front-end developer specializes in building user-friendly websites and web applications.</h3>
+<p align="center">For over 2 years, I’ve been focused on learning frontend development, building a strong foundation in HTML, CSS/SCSS, and gaining hands-on experience with JavaScript and React through personal projects. I’m now looking for a job to further develop my skills and contribute to real-world projects.</p>
 
 ##
  - 🌱 I’m currently learning **React, JavaScript, SCSS, HTML, UI/UX**
