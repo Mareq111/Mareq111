@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marek Szulc</h1>
 
-<h2 align="left">React, JavaScript, SCSS/CSS and HTML</h2>
+<h2 align="left">React|JavaScript|SCSS/CSS|HTML</h2>
 
 
   - 🌱 Learning frontend development for over 2 years, focusing on <strong>React, JavaScript, SCSS/CSS, HTML, UI/UX, </strong>
